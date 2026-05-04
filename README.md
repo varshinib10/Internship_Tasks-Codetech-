@@ -83,7 +83,17 @@ Task 2 :
 
 <img width="640" height="480" alt="Image" src="https://github.com/user-attachments/assets/ab9121f8-29b4-4c70-b7b4-166c1ef2dd5c" />
 
+Feature Importance (Bar Graph)
+
+This graph shows how much each feature affects house price prediction.
+Bathrooms are the most important factor influencing house prices in this model.
+
 <img width="640" height="480" alt="Image" src="https://github.com/user-attachments/assets/eb979c84-076a-4390-a726-c91e0354d797" />
+
+Correlation Between Features (Heatmap)
+
+This heatmap shows relationships between all features.
+All features positively influence price, with area being the strongest predictor.
 
 <img width="640" height="480" alt="Image" src="https://github.com/user-attachments/assets/b398586c-a100-4eae-b0a9-1a79c6c7fbcc" />
 
@@ -97,16 +107,6 @@ Area vs Price (Scatter Plot)
 
 This graph shows the relationship between house area and price.
 Bigger houses cost more, showing a direct relationship between area and price.
-
-Feature Importance (Bar Graph)
-
-This graph shows how much each feature affects house price prediction.
-Bathrooms are the most important factor influencing house prices in this model.
-
-Correlation Between Features (Heatmap)
-
-This heatmap shows relationships between all features.
-All features positively influence price, with area being the strongest predictor.
 
 <img width="640" height="480" alt="Image" src="https://github.com/user-attachments/assets/d3264ae6-8a1b-4438-b5b9-1a5a017af581" />
 
