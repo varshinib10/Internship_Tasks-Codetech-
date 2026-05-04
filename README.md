@@ -119,9 +119,50 @@ House prices follow a normal distribution, with most properties priced around th
 
 Task 3 :
 
-[dashboard.py](https://github.com/user-attachments/files/27330837/dashboard.py)
-
 <img width="1919" height="1070" alt="Image" src="https://github.com/user-attachments/assets/7b608456-aba1-4917-9d1c-67c0f25bba3f" />
 
+Urban Heat Contribution by City (Treemap)
+
+This treemap displays how much each city contributes to overall temperature.
+Larger blocks represent cities with higher average temperatures.
+Cities like Surat, Bangalore, and Lahore occupy larger areas.
+Some cities contribute more significantly to urban heat compared to others.
+
+Latitude vs Temperature Relationship (Scatter Plot)
+
+This graph shows the relationship between latitude and temperature.
+Each point represents a city.
+Cities closer to lower latitudes (near the equator) tend to have higher temperatures.
+There is a general trend where temperature decreases as we move away from the equator.
+
+These visualizations help users understand category performance, distribution, and trends interactively.The dashboard provides an easy and interactive way to analyze sales data and make decisions.
+
+Task 4 :
+
 <img width="640" height="480" alt="Image" src="https://github.com/user-attachments/assets/7f595ac0-8b5b-4824-ad9c-16fb7849bf59" />
+
+Sentiment Analysis (Bar Chart)
+
+This graph shows the count of positive and negative sentiments from the dataset.
+Both positive and negative sentiments have equal counts (3 each).
+There is no neutral sentiment shown in this graph.
+The dataset has a balanced distribution of positive and negative opinions.
+
+*Overall Insights*:
+
+The complete analysis across Big Data processing, Machine Learning, Sentiment Analysis, and Dashboard visualization provides several important insights.
+
+From the sales data analysis, it is observed that sales vary over time and are not constant. Among all categories, Electronics consistently shows the highest performance, followed by Furniture and Clothing. The sales distribution is fairly spread out, and visualizations such as bar charts, pie charts, and histograms clearly highlight category-wise contribution and trends.
+
+From the machine learning model (house price prediction), it is evident that house prices are strongly influenced by multiple factors. The area of the house shows a strong positive relationship with price, meaning larger houses tend to cost more. Additionally, features like bathrooms and bedrooms also impact price, with bathrooms having a particularly strong influence in the model. The correlation analysis confirms that all features are positively related to price, and the residual plot shows very small errors, indicating that the model performs accurately and fits the data well.
+
+From the price distribution and density graphs, most houses are concentrated around a central price range, suggesting a normal distribution of prices. Also, 3-bedroom houses contribute the most to total price, making them the most significant segment in the dataset.
+
+From the sentiment analysis, the dataset shows a balanced distribution of positive and negative sentiments. This indicates that user opinions are evenly divided, with no strong bias toward either positive or negative feedback.
+
+From the urban heat dashboard analysis, it is clear that temperature varies significantly across cities. Cities located closer to the equator tend to have higher temperatures, showing a relationship between latitude and temperature. Certain cities contribute more to urban heat, indicating uneven geographical distribution.
+
+Finally, the interactive dashboard (Dash/Plotly) effectively combines multiple visualizations, allowing users to easily explore trends, distributions, and comparisons. This improves decision-making by presenting complex data in a simple and visual format.
+
+
 
