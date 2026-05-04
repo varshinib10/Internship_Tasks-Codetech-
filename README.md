@@ -117,3 +117,7 @@ Price Density Distribution (KDE Plot):
 This graph shows how house prices are distributed across the dataset.
 House prices follow a normal distribution, with most properties priced around the average range.
 
+Task 3 :
+
+
+
