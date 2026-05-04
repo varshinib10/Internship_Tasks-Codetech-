@@ -81,6 +81,9 @@ Task 2 :
 
 <img width="640" height="480" alt="Image" src="https://github.com/user-attachments/assets/f530e247-60f6-4ebe-a9c9-cb727fba7533" />
 
+The residual plot shows the difference between the actual values and predicted values of the model.
+The model’s predictions are very accurate, as the residuals are close to zero. This indicates that the model fits the data well and has minimal prediction error.
+
 <img width="640" height="480" alt="Image" src="https://github.com/user-attachments/assets/ab9121f8-29b4-4c70-b7b4-166c1ef2dd5c" />
 
 Feature Importance (Bar Graph)
@@ -97,16 +100,15 @@ All features positively influence price, with area being the strongest predictor
 
 <img width="640" height="480" alt="Image" src="https://github.com/user-attachments/assets/b398586c-a100-4eae-b0a9-1a79c6c7fbcc" />
 
-<img width="640" height="480" alt="Image" src="https://github.com/user-attachments/assets/1ec5aee8-2fbb-4b2b-bf86-39a736fe838d" />
-
-
-This chart shows how total price is distributed based on the number of bedrooms.
-3-bedroom houses contribute the most to total price, making them the most significant category.
-
 Area vs Price (Scatter Plot)
 
 This graph shows the relationship between house area and price.
 Bigger houses cost more, showing a direct relationship between area and price.
+
+<img width="640" height="480" alt="Image" src="https://github.com/user-attachments/assets/1ec5aee8-2fbb-4b2b-bf86-39a736fe838d" />
+
+This chart shows how total price is distributed based on the number of bedrooms.
+3-bedroom houses contribute the most to total price, making them the most significant category.
 
 <img width="640" height="480" alt="Image" src="https://github.com/user-attachments/assets/d3264ae6-8a1b-4438-b5b9-1a5a017af581" />
 
