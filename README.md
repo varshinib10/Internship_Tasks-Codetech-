@@ -119,5 +119,9 @@ House prices follow a normal distribution, with most properties priced around th
 
 Task 3 :
 
+[dashboard.py](https://github.com/user-attachments/files/27330837/dashboard.py)
 
+<img width="1919" height="1070" alt="Image" src="https://github.com/user-attachments/assets/7b608456-aba1-4917-9d1c-67c0f25bba3f" />
+
+<img width="640" height="480" alt="Image" src="https://github.com/user-attachments/assets/7f595ac0-8b5b-4824-ad9c-16fb7849bf59" />
 
